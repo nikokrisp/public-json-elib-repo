@@ -1,9 +1,10 @@
-*.env
-*.html
-/Datasets
-/wordpress_export/report.json
-/venv/
-__pycache__/
-*.py
-.github/*.md
-publish_report_to_github.ps1
+# Ignore everything by default
+*
+
+# Keep ignore rules file itself
+!.gitignore
+
+# Allow only the JSON report path
+!wordpress_export/
+wordpress_export/*
+!wordpress_export/report.json
