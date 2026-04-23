@@ -1,0 +1,174 @@
+{
+  "generated_at_utc": "2026-04-23T06:29:49.454271+00:00",
+  "narrative_source": "gemini",
+  "context": {
+    "latest_label": "Feb-2026",
+    "requested_period": "Feb-2026",
+    "latest_window_labels": [
+      "Aug-2025",
+      "Sep-2025",
+      "Nov-2025",
+      "Dec-2025",
+      "Feb-2026"
+    ],
+    "comparison_label": "Nov-2025",
+    "latest_rows": 89,
+    "comparison_rows": 9,
+    "delta_avg_scope": "all"
+  },
+  "narrative": {
+    "top10": "Pada periode Februari 2026, tercatat 89 baris jurnal dengan Hein Online menempati posisi teratas dengan 418 akses. Seluruh jurnal dalam kategori 10 besar menunjukkan nilai akses di bawah rata-rata historis, dengan Springer Springer mencatat delta negatif terbesar sebesar -77.270,75 dibandingkan rata-rata periode sebelumnya.",
+    "bottom5": "Data untuk Februari 2026 menunjukkan Emerald berada pada posisi terendah dengan 3 akses, sekaligus menjadi satu-satunya jurnal yang menunjukkan pertumbuhan positif dengan delta +2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya dalam kelompok ini—Summons, Ebscohost, JSTOR, dan Sage Research Method—mencatat volume akses di bawah rata-rata historis dengan penurunan terdalam dialami oleh JSTOR sebesar -18.568,17.",
+    "pattern": "Springer Springer, Hein Online, dan OER menunjukkan tingkat konsistensi tertinggi dengan kehadiran dalam 10 besar selama minimal 11 dari 12 bulan pengamatan. Springer Springer memimpin performa dengan peringkat rata-rata 1,92, sementara Hein Online dan OER mempertahankan stabilitas posisi dengan peringkat rata-rata masing-masing 5,42 dan 6,18.",
+    "full_text": "1) Narasi Top 10:\nPada periode Februari 2026, tercatat 89 baris jurnal dengan Hein Online menempati posisi teratas dengan 418 akses. Seluruh jurnal dalam kategori 10 besar menunjukkan nilai akses di bawah rata-rata historis, dengan Springer Springer mencatat delta negatif terbesar sebesar -77.270,75 dibandingkan rata-rata periode sebelumnya.\n\n2) Narasi Bottom 5:\nData untuk Februari 2026 menunjukkan Emerald berada pada posisi terendah dengan 3 akses, sekaligus menjadi satu-satunya jurnal yang menunjukkan pertumbuhan positif dengan delta +2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya dalam kelompok ini—Summons, Ebscohost, JSTOR, dan Sage Research Method—mencatat volume akses di bawah rata-rata historis dengan penurunan terdalam dialami oleh JSTOR sebesar -18.568,17.\n\n3) Narasi Pola (kekonsistenan top 1 dan top 3):\nSpringer Springer, Hein Online, dan OER menunjukkan tingkat konsistensi tertinggi dengan kehadiran dalam 10 besar selama minimal 11 dari 12 bulan pengamatan. Springer Springer memimpin performa dengan peringkat rata-rata 1,92, sementara Hein Online dan OER mempertahankan stabilitas posisi dengan peringkat rata-rata masing-masing 5,42 dan 6,18."
+  },
+  "tables": {
+    "top10": [
+      {
+        "Nama Jurnal": "Hein Online",
+        "Aug-2025": 1437.0,
+        "Sep-2025": 1619.0,
+        "Nov-2025": 36.0,
+        "Dec-2025": 48.0,
+        "Feb-2026": 418.0,
+        "Delta_vs_Avg": -1107.8333333333333
+      },
+      {
+        "Nama Jurnal": "OER",
+        "Aug-2025": 2454.0,
+        "Sep-2025": 3596.0,
+        "Nov-2025": 240.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 251.0,
+        "Delta_vs_Avg": -1140.0
+      },
+      {
+        "Nama Jurnal": "Springer springer",
+        "Aug-2025": 58127.0,
+        "Sep-2025": 100712.0,
+        "Nov-2025": 20.0,
+        "Dec-2025": 7.0,
+        "Feb-2026": 245.0,
+        "Delta_vs_Avg": -77270.75
+      },
+      {
+        "Nama Jurnal": "Sage Research Method",
+        "Aug-2025": 969.0,
+        "Sep-2025": 1302.0,
+        "Nov-2025": 20.0,
+        "Dec-2025": 8.0,
+        "Feb-2026": 206.0,
+        "Delta_vs_Avg": -7071.333333333333
+      },
+      {
+        "Nama Jurnal": "JSTOR",
+        "Aug-2025": 2697.0,
+        "Sep-2025": 5163.0,
+        "Nov-2025": 0.0,
+        "Dec-2025": 3.0,
+        "Feb-2026": 62.0,
+        "Delta_vs_Avg": -18568.166666666668
+      },
+      {
+        "Nama Jurnal": "Ebscohost",
+        "Aug-2025": 5757.0,
+        "Sep-2025": 6419.0,
+        "Nov-2025": 37.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 34.0,
+        "Delta_vs_Avg": -8413.333333333334
+      },
+      {
+        "Nama Jurnal": "Summons",
+        "Aug-2025": 244.0,
+        "Sep-2025": 72.0,
+        "Nov-2025": 5.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 5.0,
+        "Delta_vs_Avg": -3666.5833333333335
+      },
+      {
+        "Nama Jurnal": "Emerald",
+        "Aug-2025": 1.0,
+        "Sep-2025": 0.0,
+        "Nov-2025": 0.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 3.0,
+        "Delta_vs_Avg": 2.5
+      }
+    ],
+    "bottom5": [
+      {
+        "Nama Jurnal": "Emerald",
+        "Aug-2025": 1.0,
+        "Sep-2025": 0.0,
+        "Nov-2025": 0.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 3.0,
+        "Delta_vs_Avg": 2.5
+      },
+      {
+        "Nama Jurnal": "Summons",
+        "Aug-2025": 244.0,
+        "Sep-2025": 72.0,
+        "Nov-2025": 5.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 5.0,
+        "Delta_vs_Avg": -3666.5833333333335
+      },
+      {
+        "Nama Jurnal": "Ebscohost",
+        "Aug-2025": 5757.0,
+        "Sep-2025": 6419.0,
+        "Nov-2025": 37.0,
+        "Dec-2025": 0.0,
+        "Feb-2026": 34.0,
+        "Delta_vs_Avg": -8413.333333333334
+      },
+      {
+        "Nama Jurnal": "JSTOR",
+        "Aug-2025": 2697.0,
+        "Sep-2025": 5163.0,
+        "Nov-2025": 0.0,
+        "Dec-2025": 3.0,
+        "Feb-2026": 62.0,
+        "Delta_vs_Avg": -18568.166666666668
+      },
+      {
+        "Nama Jurnal": "Sage Research Method",
+        "Aug-2025": 969.0,
+        "Sep-2025": 1302.0,
+        "Nov-2025": 20.0,
+        "Dec-2025": 8.0,
+        "Feb-2026": 206.0,
+        "Delta_vs_Avg": -7071.333333333333
+      }
+    ],
+    "recurrence": [
+      {
+        "Nama Jurnal": "Springer springer",
+        "months_present": 12,
+        "months_in_top10": 12,
+        "avg_rank": 1.92,
+        "best_rank": 1.0,
+        "total_months": 12
+      },
+      {
+        "Nama Jurnal": "Hein Online",
+        "months_present": 12,
+        "months_in_top10": 12,
+        "avg_rank": 5.42,
+        "best_rank": 1.0,
+        "total_months": 12
+      },
+      {
+        "Nama Jurnal": "OER",
+        "months_present": 11,
+        "months_in_top10": 11,
+        "avg_rank": 6.18,
+        "best_rank": 1.0,
+        "total_months": 12
+      }
+    ]
+  }
+}
