@@ -1,0 +1,9 @@
+*.env
+*.html
+/Datasets
+/wordpress_export/report.json
+/venv/
+__pycache__/
+*.py
+.github/*.md
+publish_report_to_github.ps1
