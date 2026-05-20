@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-23T06:29:49.454271+00:00",
+  "generated_at_utc": "2026-05-07T10:20:30.233343+00:00",
   "narrative_source": "gemini",
   "context": {
     "latest_label": "Feb-2026",
@@ -17,10 +17,11 @@
     "delta_avg_scope": "all"
   },
   "narrative": {
-    "top10": "Pada periode Februari 2026, tercatat 89 baris jurnal dengan Hein Online menempati posisi teratas dengan 418 akses. Seluruh jurnal dalam kategori 10 besar menunjukkan nilai akses di bawah rata-rata historis, dengan Springer Springer mencatat delta negatif terbesar sebesar -77.270,75 dibandingkan rata-rata periode sebelumnya.",
-    "bottom5": "Data untuk Februari 2026 menunjukkan Emerald berada pada posisi terendah dengan 3 akses, sekaligus menjadi satu-satunya jurnal yang menunjukkan pertumbuhan positif dengan delta +2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya dalam kelompok ini—Summons, Ebscohost, JSTOR, dan Sage Research Method—mencatat volume akses di bawah rata-rata historis dengan penurunan terdalam dialami oleh JSTOR sebesar -18.568,17.",
-    "pattern": "Springer Springer, Hein Online, dan OER menunjukkan tingkat konsistensi tertinggi dengan kehadiran dalam 10 besar selama minimal 11 dari 12 bulan pengamatan. Springer Springer memimpin performa dengan peringkat rata-rata 1,92, sementara Hein Online dan OER mempertahankan stabilitas posisi dengan peringkat rata-rata masing-masing 5,42 dan 6,18.",
-    "full_text": "1) Narasi Top 10:\nPada periode Februari 2026, tercatat 89 baris jurnal dengan Hein Online menempati posisi teratas dengan 418 akses. Seluruh jurnal dalam kategori 10 besar menunjukkan nilai akses di bawah rata-rata historis, dengan Springer Springer mencatat delta negatif terbesar sebesar -77.270,75 dibandingkan rata-rata periode sebelumnya.\n\n2) Narasi Bottom 5:\nData untuk Februari 2026 menunjukkan Emerald berada pada posisi terendah dengan 3 akses, sekaligus menjadi satu-satunya jurnal yang menunjukkan pertumbuhan positif dengan delta +2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya dalam kelompok ini—Summons, Ebscohost, JSTOR, dan Sage Research Method—mencatat volume akses di bawah rata-rata historis dengan penurunan terdalam dialami oleh JSTOR sebesar -18.568,17.\n\n3) Narasi Pola (kekonsistenan top 1 dan top 3):\nSpringer Springer, Hein Online, dan OER menunjukkan tingkat konsistensi tertinggi dengan kehadiran dalam 10 besar selama minimal 11 dari 12 bulan pengamatan. Springer Springer memimpin performa dengan peringkat rata-rata 1,92, sementara Hein Online dan OER mempertahankan stabilitas posisi dengan peringkat rata-rata masing-masing 5,42 dan 6,18."
+    "top10": "Pada Februari 2026, Hein Online mencatatkan penggunaan tertinggi di antara daftar 10 jurnal teratas dengan 418 akses. Seluruh jurnal dalam kelompok ini menunjukkan deviasi negatif dibandingkan rata-rata periode historis, dengan Springer mencatat delta terbesar sebesar -77.270,75.",
+    "bottom5": "Emerald menjadi satu-satunya jurnal dalam kategori ini dengan tren positif sebesar 2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya termasuk Ebscohost dan JSTOR mengalami penurunan penggunaan, dengan delta rata-rata terendah tercatat pada JSTOR sebesar -18.568,17.",
+    "program_studi": "S1 Ekonomi Islam mendominasi akses OpenVPN pada Februari 2026 dengan 135.260 sesi atau 30,96% dari total pangsa pasar. S3 Keperawatan dan S3 Ilmu Akuntansi menyusul di peringkat kedua dan ketiga, masing-masing dengan kontribusi sebesar 28,63% dan 22,96%.",
+    "fakultas": "Fakultas Ekonomi dan Bisnis memimpin penggunaan OpenVPN dengan total 307.486 akses atau 54,82% dari total share pada Februari 2026. Fakultas Keperawatan menempati posisi kedua dengan 137.314 akses, sementara delapan fakultas lainnya masing-masing berkontribusi di bawah 5%.",
+    "full_text": "Berikut adalah narasi untuk anotasi grafik dashboard akademik periode Februari 2026:\n\n**1) Narasi Top 10:**\nPada Februari 2026, Hein Online mencatatkan penggunaan tertinggi di antara daftar 10 jurnal teratas dengan 418 akses. Seluruh jurnal dalam kelompok ini menunjukkan deviasi negatif dibandingkan rata-rata periode historis, dengan Springer mencatat delta terbesar sebesar -77.270,75.\n\n**2) Narasi Bottom 5:**\nEmerald menjadi satu-satunya jurnal dalam kategori ini dengan tren positif sebesar 2,50 di atas rata-rata. Sementara itu, empat jurnal lainnya termasuk Ebscohost dan JSTOR mengalami penurunan penggunaan, dengan delta rata-rata terendah tercatat pada JSTOR sebesar -18.568,17.\n\n**3) Narasi Program Studi (Top 10):**\nS1 Ekonomi Islam mendominasi akses OpenVPN pada Februari 2026 dengan 135.260 sesi atau 30,96% dari total pangsa pasar. S3 Keperawatan dan S3 Ilmu Akuntansi menyusul di peringkat kedua dan ketiga, masing-masing dengan kontribusi sebesar 28,63% dan 22,96%.\n\n**4) Narasi Fakultas (Top 10):**\nFakultas Ekonomi dan Bisnis memimpin penggunaan OpenVPN dengan total 307.486 akses atau 54,82% dari total share pada Februari 2026. Fakultas Keperawatan menempati posisi kedua dengan 137.314 akses, sementara delapan fakultas lainnya masing-masing berkontribusi di bawah 5%."
   },
   "tables": {
     "top10": [
@@ -144,30 +145,148 @@
         "Delta_vs_Avg": -7071.333333333333
       }
     ],
-    "recurrence": [
+    "frekuensi_program_studi": [
       {
-        "Nama Jurnal": "Springer springer",
-        "months_present": 12,
-        "months_in_top10": 12,
-        "avg_rank": 1.92,
-        "best_rank": 1.0,
-        "total_months": 12
+        "Program Studi": "S1 EKONOMI ISLAM",
+        "Value": 135260,
+        "Share": 30.96,
+        "Rank": 1,
+        "Latest_Month": "Feb-2026"
       },
       {
-        "Nama Jurnal": "Hein Online",
-        "months_present": 12,
-        "months_in_top10": 12,
-        "avg_rank": 5.42,
-        "best_rank": 1.0,
-        "total_months": 12
+        "Program Studi": "S3 KEPERAWATAN",
+        "Value": 125095,
+        "Share": 28.63,
+        "Rank": 2,
+        "Latest_Month": "Feb-2026"
       },
       {
-        "Nama Jurnal": "OER",
-        "months_present": 11,
-        "months_in_top10": 11,
-        "avg_rank": 6.18,
-        "best_rank": 1.0,
-        "total_months": 12
+        "Program Studi": "S3 ILMU AKUNTANSI",
+        "Value": 100333,
+        "Share": 22.96,
+        "Rank": 3,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S2 AKUNTANSI",
+        "Value": 24367,
+        "Share": 5.58,
+        "Rank": 4,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 AKUNTANSI",
+        "Value": 10453,
+        "Share": 2.39,
+        "Rank": 5,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 MANAJEMEN",
+        "Value": 9225,
+        "Share": 2.11,
+        "Rank": 6,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 ADMINISTRASI PUBLIK",
+        "Value": 8281,
+        "Share": 1.9,
+        "Rank": 7,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 KEDOKTERAN GIGI",
+        "Value": 8116,
+        "Share": 1.86,
+        "Rank": 8,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 KEPERAWATAN",
+        "Value": 8098,
+        "Share": 1.85,
+        "Rank": 9,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Program Studi": "S1 PSIKOLOGI",
+        "Value": 7681,
+        "Share": 1.76,
+        "Rank": 10,
+        "Latest_Month": "Feb-2026"
+      }
+    ],
+    "frekuensi_fakultas": [
+      {
+        "Fakultas": "Ekonomi dan Bisnis",
+        "Value": 307486,
+        "Share": 54.82,
+        "Rank": 1,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Keperawatan",
+        "Value": 137314,
+        "Share": 24.48,
+        "Rank": 2,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "Value": 24027,
+        "Share": 4.28,
+        "Rank": 3,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Kedokteran",
+        "Value": 18449,
+        "Share": 3.29,
+        "Rank": 4,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Kesehatan Masyarakat",
+        "Value": 18199,
+        "Share": 3.24,
+        "Rank": 5,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Psikologi",
+        "Value": 12583,
+        "Share": 2.24,
+        "Rank": 6,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Sains dan Teknologi",
+        "Value": 11265,
+        "Share": 2.01,
+        "Rank": 7,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Farmasi",
+        "Value": 11119,
+        "Share": 1.98,
+        "Rank": 8,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Kedokteran Gigi",
+        "Value": 10546,
+        "Share": 1.88,
+        "Rank": 9,
+        "Latest_Month": "Feb-2026"
+      },
+      {
+        "Fakultas": "Vokasi",
+        "Value": 9916,
+        "Share": 1.77,
+        "Rank": 10,
+        "Latest_Month": "Feb-2026"
       }
     ]
   }
